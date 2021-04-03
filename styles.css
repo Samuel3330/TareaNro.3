@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    text-align: center;
+    margin: 0.5em auto 1em auto;
+}
+
+.primer-contenido{
+    background: rgba(117, 117, 117, 0.24);
+    margin-top: 20px;
+}
+
+.primer-contenido div{
+    border: 1px solid rgba(138, 138, 138, 0.521);
+    height: 10vh;
+}
+
+.layout{
+
+    padding: 5em 0 5em 0;
+    
+}
+.content{
+    border-top: 1px solid rgba(138, 138, 138, 0.692);
+}
+.form{
+    border-top: 1px solid rgba(138, 138, 138, 0.521);
+}
+
+.centrado{
+    width: 50%;
+    margin:2em auto;
+}
